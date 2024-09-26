@@ -178,10 +178,11 @@ These statutes of association were adopted by the constitutive meeting on [date 
 
 They replace all previous versions for existing association.
 
-Date, place: [TODO]
+Date, place: 2024-09-26, Zürich, Switzerland
 
 The chairmanship:   
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Philipp Lauwiner
+Stefan Zweifel
 
 The minute taker:    
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Sandro Gehri
