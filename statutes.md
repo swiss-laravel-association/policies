@@ -174,7 +174,7 @@ In the event that the association is dissolved, the assets of the association wi
 
 ## 15. Entry into force
 
-These statutes of association were adopted by the constitutive meeting on [date of constitution or date of general meeting] and entered into force with effect from such date.
+These statutes of association were adopted by the constitutive meeting on 2024-09-26 and entered into force with effect from such date.
 
 They replace all previous versions for existing association.
 
